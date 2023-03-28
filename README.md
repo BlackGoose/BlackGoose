@@ -1,5 +1,5 @@
 ### Hello there 
-### DevOps larva 🌱
+### I’m currently learning Golang
 
 <!--
 **BlackGoose/BlackGoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
