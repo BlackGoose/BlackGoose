@@ -1,5 +1,7 @@
-### Hello there 
-### I’m currently learning DevOps
+### Hello there!
+### SRE at Yandex
+### 🌱 I’m currently learning Golang
+### 📫 How to reach me: rpmisko@gmail.com
 
 <!--
 **BlackGoose/BlackGoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
