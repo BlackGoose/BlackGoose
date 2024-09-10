@@ -1,6 +1,5 @@
 ### Hello there!
-### SRE at Yandex
-### 🌱 I’m currently learning Golang
+### SRE at Yandex, Golang enjoyer
 ### 📫 How to reach me: rpmisko@gmail.com
 
 <!--
