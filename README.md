@@ -1,5 +1,5 @@
 ### Hello there!
-### SRE at Yandex, Golang enjoyer
+### I'm Golang enjoyer
 ### 📫 How to reach me: rpmisko@gmail.com
 
 <!--
