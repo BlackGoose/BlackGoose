@@ -1,5 +1,4 @@
-### Hello there!
-### I'm Golang enjoyer
+### Golang enjoyer
 ### 📫 How to reach me: rpmisko@gmail.com
 
 <!--
